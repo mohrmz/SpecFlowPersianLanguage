@@ -1,2 +1,2 @@
-# SpecFlowPersianLanguage
-# Code Highlighting And GenerateStepDefinitions Problem
+# SpecFlowPersianLanguageIssue
+Code Highlighting And GenerateStepDefinitions Problem
